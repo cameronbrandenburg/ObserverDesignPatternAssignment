@@ -1,2 +1,2 @@
 # ObserverDesignPatternAssignment
-ObserverDesignPatternAssignemtn for CSCE 247 Professor Plante
+ObserverDesignPatternAssignment for CSCE 247 Professor Plante
